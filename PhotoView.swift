@@ -9,7 +9,7 @@
 import UIKit
 import Foundation
 
-class PhotoView : UIView,UIScrollViewDelegate {
+class PhotoView : UIView,UIScrollViewDelegate { 
     
     private let terminal = UIDevice.currentDevice()
     private let screen   = UIScreen.mainScreen()
